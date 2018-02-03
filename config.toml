@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://laurent-brisson.github.io"
 
 # Title of your site
 title = "Academic"
@@ -115,7 +115,7 @@ defaultContentLanguageInSubdir = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
