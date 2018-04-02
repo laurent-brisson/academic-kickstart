@@ -6,7 +6,7 @@
 baseurl = "https://laurent-brisson.github.io"
 
 # Title of your site
-title = "Academic"
+title = "Academic Page"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -50,20 +50,20 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Laurent Brisson"
+  role = "Associate Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "IMT Atlantique", url = "http://www.imt-atlantique.fr" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  email = "laurent.brisson@imt-atlantique.fr"
+  address = "Office F01-114 - Technopôle Brest-Iroise - CS 83818 - 29238 Brest Cedex 3 - France"
+  office_hours = "Send me an email to make an appointment"
+  phone = "02 29 00 10 51"
+  skype = ""
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -92,10 +92,10 @@ defaultContentLanguageInSubdir = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 2
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  latitude = "48.359269"
+  longitude = "-4.5721417"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
@@ -145,8 +145,8 @@ defaultContentLanguageInSubdir = false
   #   For more info on the highlighting options, see:
   #   https://sourcethemes.com/academic/post/writing-markdown-latex/#highlighting-options
   highlight = true
-  highlight_languages = []
-  # highlight_style = "github"
+  highlight_languages = ["python"]
+  highlight_style = "github"
 
   # Enable native social sharing buttons?
   sharing = true
@@ -170,7 +170,8 @@ defaultContentLanguageInSubdir = false
     'Manuscript',  # 3
     'Report',  # 4
     'Book',  # 5
-    'Book section'  # 6
+    'Book section',  # 6
+    'Communication' #7
   ]
 
   # Configuration of talk pages.
@@ -217,22 +218,22 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:laurent.brisson@imt-atlantique.fr"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/laurent_brisson"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "//scholar.google.fr/citations?hl=fr&user=oGWncwMAAAAJ"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/laurent.brisson"
 
 
 # Navigation Links
@@ -249,14 +250,19 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
+  name = "Featured"
   url = "#publications_selected"
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Publications"
+  url = "publication"
   weight = 3
+
+# [[menu.main]]
+#   name = "Posts"
+#   url = "#posts"
+#   weight = 3
 
 [[menu.main]]
   name = "Projects"
@@ -284,4 +290,4 @@ defaultContentLanguageInSubdir = false
 
 # Configure the English version of the website.
 [Languages.en]
-  languageCode = "en-us"
+  languageCode = "en-en"

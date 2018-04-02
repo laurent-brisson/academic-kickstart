@@ -15,14 +15,12 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+I am currently a coordinator and teacher for the following courses at IMT Atlantique:
 
-I am a teaching instructor for the following courses at University X:
+- INF206: [Databases](http://formations.telecom-bretagne.eu/databases/)
+- F3B415: [Business Intelligence](http://formations.telecom-bretagne.eu/bi/)
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+I am also a teacher for the following courses:
+
+- Algorithms
+- Big Data

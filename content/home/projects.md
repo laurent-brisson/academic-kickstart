@@ -33,12 +33,19 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+  name = "Social Network Analysis"
+  tag = ".social-networks-analysis"
 
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "Visualisation"
+  tag = ".visualisation"
+
+[[filter]]
+  name = "Pedagogy"
+  tag = ".pedagogy"
+
+[[filter]]
+  name = "Applications"
+  tag = ".applications"
 
 +++
-

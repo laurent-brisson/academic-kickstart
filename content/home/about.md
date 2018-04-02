@@ -10,31 +10,28 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Complex Networks",
+    "Information dissemination",
+    "Visual Analytics"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Computer Science"
+  institution = "Université Nice Sophia-Antipolis"
+  year = 2006
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Master Degree in Computer Science"
+  institution = "Université Nice Sophia-Antipolis"
+  year = 2003
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Laurent BRISSON received a Ph.D degree in Computer Science from Université Nice Sophia-Antipolis (France) in 2006. During his Ph.D he worked on the integration of expert knowledge in data mining processes in order to extract relevant information from human expert point of view.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+In 2017, he joined IMT Atlantique (previously Telecom Bretagne) as an associate professor in the DECIDE team of the Lab-STICC laboratory. His research work in the field of data mining aims to take human beings into account at some point in the data analysis process. He has thus contributed to the definition of scoring models to raise awareness of breast cancer risk among primary prevention populations and has been interested in the analysis of feelings for automatic classification of comments.
+
+Currently, his work focuses on the analysis of social networks along two axes: information dissemination and the detection of temporal communities.
