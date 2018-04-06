@@ -8,7 +8,7 @@ draft = false
 tags = ['pedagogy', 'motivation', 'autonomy', 'role-playing games']
 
 # Project summary to display on homepage.
-summary = "Discover some innovations in pedagogy in order to act on students' autonomy and motivation through different activities such as role-playing or group MCQ"
+summary = "Discover some innovations in pedagogy in order to act on students' autonomy and motivation through different activities such as role-playing or group MCQ."
 
 # Optional image to display on homepage.
 image_preview = "jeu-de-role.jpg"
@@ -29,3 +29,5 @@ image = ""
 caption = ""
 
 +++
+
+Discover some innovations in pedagogy in order to act on students' autonomy and motivation through different activities such as role-playing or group MCQ.

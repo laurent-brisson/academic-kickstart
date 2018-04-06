@@ -29,3 +29,5 @@ image = ""
 caption = ""
 
 +++
+
+This project aims to analyze the mechanisms of information propagation within social networks. What is the influence of the network topology? What is the influence of the nature of the message conveyed or its mode of transmission?
