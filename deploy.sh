@@ -1,4 +1,4 @@
-hugo --cleanDestinationDir
+hugo 
 cd public
 git add .
 git commit -m "Build website"
