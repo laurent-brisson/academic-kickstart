@@ -15,7 +15,7 @@ authors = ['Laurent Brisson', 'Martine Collard', 'Nicolas Pasquier']
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
 publication = "*Atelier Fouille de Données Complexe de la conférence EGC'2006 sur l'Extraction et la Gestion des Connaissances*, Lyon, France"

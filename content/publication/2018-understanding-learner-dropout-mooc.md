@@ -1,7 +1,6 @@
 +++
 title = "Understanding Learner's Drop-out in MOOCs"
 date = "2018-09-01"
-draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ['Alya Itani', 'Laurent Brisson', 'Serge Garlatti']
@@ -18,7 +17,7 @@ authors = ['Alya Itani', 'Laurent Brisson', 'Serge Garlatti']
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "(to appear) In, *19th International Conference on Intelligent Data Engineering and Automated Learning*, Madrid"
+publication = "*19th International Conference on Intelligent Data Engineering and Automated Learning*, Madrid"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -42,15 +41,17 @@ projects = ['learning-analytics']
 tags = ['supervised-learning','learning-analytics']
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/2018-understanding-learner-dropout-mooc.pdf"
 url_preprint = ""
 url_code = "files/2018-understanding-learner-dropout-mooc-parameters-tuning.md"
 url_dataset = ""
 url_project = ""
-url_slides = ""
+url_slides = "https://fr.slideshare.net/brissonlaurent/understanding-learners-dropout-in-moocs"
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://hal.archives-ouvertes.fr/hal-01953030"
+
+url_custom = [{name = "BibTex", url = "https://hal.archives-ouvertes.fr/hal-01953030v1/bibtex"}]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
