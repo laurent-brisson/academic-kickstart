@@ -222,7 +222,7 @@ defaultContentLanguageInSubdir = false
 
   [[params.social]]
     icon = "twitter"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "//twitter.com/laurent_brisson"
 
   [[params.social]]
@@ -232,7 +232,7 @@ defaultContentLanguageInSubdir = false
 
   [[params.social]]
     icon = "github"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "//github.com/laurent.brisson"
 
 
