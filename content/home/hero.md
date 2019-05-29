@@ -25,6 +25,7 @@ weight = 3
 +++
 
 Associate Professor at IMT Atlantique <br/>
+DECIDE Team, Lab-STICC, CNRS, UMR 6285 <br/>
 <ul style='color:white;list-style-type:square;'>
   <li>Complex Networks</li>
   <li>Information dissemination</li>
