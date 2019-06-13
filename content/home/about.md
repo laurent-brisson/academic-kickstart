@@ -10,7 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Complex Networks",
+    "Complex Networks Analysis", 
+    "Temporal motifs",
+    "Characterization of communities evolution",
+    "Interaction Analysis",
     "Information dissemination",
     "Visual Analytics"
   ]
