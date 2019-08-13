@@ -11,11 +11,10 @@ weight = 5
 [interests]
   interests = [
     "Complex Networks Analysis", 
-    "Temporal motifs",
-    "Characterization of communities evolution",
-    "Interaction Analysis",
-    "Information dissemination",
-    "Visual Analytics"
+    "Temporal communities",
+    "Temporal patterns",
+    "Immersive Analytics",
+    "Learning Analytics"
   ]
 
 # List your qualifications (such as academic degrees).

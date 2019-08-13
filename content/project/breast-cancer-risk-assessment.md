@@ -29,3 +29,5 @@ image = ""
 caption = ""
 
 +++
+
+According to the World Health Organization, starting from 2010, cancer will become the leading cause of death worldwide. Prevention of major cancer localizations through a quantified assessment of risk factors is a major concern in order to decrease their impact in our society. In this project our objective was to find and to evaluate modeling methods easily readable by a physician.

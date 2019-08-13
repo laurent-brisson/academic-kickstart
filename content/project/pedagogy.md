@@ -1,5 +1,5 @@
 +++
-title = "Pedagogy"
+title = "Higher Education"
 date = 2018-03-30T18:04:08+02:00
 draft = false
 
@@ -11,7 +11,7 @@ tags = ['pedagogy', 'motivation', 'autonomy', 'role-playing games']
 summary = "Discover some innovations in pedagogy in order to act on students' autonomy and motivation through different activities such as role-playing or group MCQ."
 
 # Optional image to display on homepage.
-image_preview = "jeu-de-role.jpg"
+#image_preview = "jeu-de-role.jpg"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

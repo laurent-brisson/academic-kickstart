@@ -1,11 +1,11 @@
 +++
-title = "Immersive Visualisation"
+title = "Immersive Analytics"
 date = 2018-03-30T18:26:13+02:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ['visualisation']
+tags = ['visual_analytics']
 
 # Project summary to display on homepage.
 summary = ""

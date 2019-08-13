@@ -35,11 +35,11 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = ['immersive-visualisation']
+projects = ['immersive-analytics']
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ['visualisation']
+tags = ['visual_analytics']
 
 # Links (optional).
 url_pdf = "files/2017-visualisation-immersive.pdf"

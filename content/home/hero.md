@@ -25,10 +25,11 @@ weight = 3
 +++
 
 Associate Professor at IMT Atlantique <br/>
-DECIDE Team, Lab-STICC, CNRS, UMR 6285 <br/>
+DECIDE Team, Lab-STICC - CNRS UMR 6285 <br/>
 <ul style='color:white;list-style-type:square;'>
-  <li>Complex Networks</li>
-  <li>Information dissemination</li>
-  <li>Visual Analytics</li>
+  <li>Complex Networks Analysis</li>
+  <li>Temporal communities</li>
+  <li>Temporal patterns</li>
+  <li>Immersive Analytics</li>
   <li>Learning Analytics</li>
 </ul>

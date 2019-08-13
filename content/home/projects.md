@@ -4,7 +4,7 @@ widget = "projects"
 active = true
 date = "2016-04-20T00:00:00"
 
-title = "Projects"
+title = "Research Projects"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -37,15 +37,11 @@ filter_default = 0
   tag = ".social-networks-analysis"
 
 [[filter]]
-  name = "Visualisation"
-  tag = ".visualisation"
+  name = "Visual Analytics"
+  tag = ".visual_analytics"
 
 [[filter]]
   name = "Pedagogy"
   tag = ".pedagogy"
-
-[[filter]]
-  name = "Applications"
-  tag = ".applications"
 
 +++

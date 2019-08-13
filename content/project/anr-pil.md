@@ -11,7 +11,7 @@ tags = ['social-networks-analysis','applications']
 summary = "Analyse and assess the socio-economic effects of digital transformations on information quality and pluralism (QPI) in the media universe."
 
 # Optional image to display on homepage.
-image_preview = "anr-pil_200.gif"
+#image_preview = "anr-pil_200.gif"
 
 # Optional external URL for project (replaces project detail page).
 external_link = "http://www.anr-pil.org/"
