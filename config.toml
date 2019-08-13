@@ -265,19 +265,24 @@ defaultContentLanguageInSubdir = false
 #   weight = 3
 
 [[menu.main]]
-  name = "Projects"
+  name = "Research Projects"
   url = "#projects"
   weight = 4
 
 [[menu.main]]
+  name = "Supervised PhD"
+  url = "#supervised_phd"
+  weight = 5
+
+[[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 5
+  weight = 6
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 7
 
 # Taxonomies.
 [taxonomies]
