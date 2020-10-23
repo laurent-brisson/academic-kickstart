@@ -1,6 +1,7 @@
 +++
 # Tag Cloud widget.
 widget = "tag_cloud"
+headless = true  # This file represents a page section.
 active = false
 date = 2017-09-20
 

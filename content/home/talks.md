@@ -1,6 +1,7 @@
 +++
 # Recent and Upcoming Talks widget.
 widget = "talks"
+headless = true  # This file represents a page section.
 active = false
 date = "2016-04-20T00:00:00"
 
@@ -13,9 +14,11 @@ weight = 30
 # Number of talks to list.
 count = 10
 
-# List format.
-#   0 = Simple
-#   1 = Detailed
-list_format = 0
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view = 2
+
 
 +++

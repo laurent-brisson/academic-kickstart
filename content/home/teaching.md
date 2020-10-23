@@ -1,23 +1,53 @@
 +++
-# Custom widget.
-# An example of using the custom widget to create your own homepage section.
-# To create more sections, duplicate this file and edit the values below as desired.
-widget = "custom"
-active = true
-date = "2019-08-12T00:00:00"
+# A Demo section created with the Blank widget.
+# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
+# Add more sections by duplicating this file and customizing to your requirements.
+
+widget = "blank"  # Do not modify this line!
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 70  # Order that this section will appear.
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Teaching"
 subtitle = ""
 
-# Order that this section will appear in.
-weight = 70
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "2"
+
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+
+  # Background color.
+  # color = "navy"
+  
+  # Background gradient.
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
+  
+  # Background image.
+  #image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
+  #image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+
+  # Text color (true=light or false=dark).
+  text_color_light = false
+
+[advanced]
+ # Custom CSS. 
+ css_style = "padding-top: 20px; padding-bottom: 20px;"
+ 
+ # CSS class.
+ css_class = ""
 
 +++
 
 I am currently a coordinator and teacher for the following courses at IMT Atlantique:
 
-- [Databases and interactive software](http://formations.imt-atlantique.fr/bd_ihm/)
+- [Databases](http://formations.imt-atlantique.fr/bd_ihm/)
 - [Business Intelligence](http://formations.telecom-bretagne.eu/bi/)
 
 I am also a teacher for the following courses:

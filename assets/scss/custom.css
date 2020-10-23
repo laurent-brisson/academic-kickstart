@@ -1,0 +1,21 @@
+/* Create the parallax scrolling effect */
+.parallax {
+    background-attachment: local;
+}
+
+.navbar-light {
+    font-weight: 600;
+}
+
+.navbar-brand, .navbar-nav li.nav-item a.nav-link {
+    font-size: 1.2em;
+}
+
+.navbar-light .navbar-nav>.nav-item>.nav-link:hover {
+    color: #0095eb;
+}
+
+.navbar-light .navbar-nav>li.nav-item>a.active,
+.navbar-light .navbar-nav>li.nav-item>a.active:focus,
+.navbar-light .navbar-nav>li.nav-item>a.active:hover {
+    color: #0095eb;
