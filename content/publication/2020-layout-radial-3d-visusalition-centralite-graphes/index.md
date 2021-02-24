@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Layout radial 3D pour la visualisation de la centralité dans les graphes "
+title: "Layout radial 3D pour la visualisation de la centralité dans les graphes"
 authors: ['Piriziwè Kobina', 'Laurent Brisson', 'Thierry Duval']
 date: "2020-01-01T00:00:00+00:00"
 doi: ""
@@ -26,7 +26,7 @@ summary: ""
 
 tags: ['Immersive Analytics','Virtual reality VR']
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
