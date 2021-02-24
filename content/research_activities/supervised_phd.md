@@ -52,7 +52,9 @@ subtitle = ""
 - Supervisors: Thierry Duval - Laurent Brisson
 - Funding: ARED
 
-**Michael Kamau Wahiu (october 2018 - ongoing)**
+**Michael Kamau Wahiu (october 2018 - november 2020)**
+
+*In memory of Michael who left us far too soon.*
 
 - Subject: Understanding of Learning Analytics Techniques Using Network Community Detection
 - Director: Antoine Beugnard
